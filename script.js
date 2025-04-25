@@ -40,7 +40,7 @@ else if (condition === "Clear") {
     weatherIcon.src = temp <= 10 ? "images/cold-clear.png" : "images/clear.png";
 }
 else {
-    weatherIcon.src = "images/wind.png";
+    weatherIcon.src = "images/clear.png";
 }
 
 
